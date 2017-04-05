@@ -1,12 +1,12 @@
 {
   "name": "grunt-build-version",
-  "description": "The best Grunt plugin ever.",
+  "description": "A grunt plugin to set the version's patch number based on a build number",
   "version": "0.1.0",
-  "homepage": "https://github.com/daward/grunt-build-version",
+  "homepage": "https://github.com/Cimpress-MCP/grunt-build-version",
   "author": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/daward/grunt-build-version.git"
+    "url": "https://github.com/Cimpress-MCP/grunt-build-version.git"
   },
   "licenses": [
     {
