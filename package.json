@@ -1,7 +1,7 @@
 {
   "name": "grunt-build-version",
   "description": "A grunt plugin to set the version's patch number based on a build number",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/Cimpress-MCP/grunt-build-version",
   "author": {},
   "repository": {
